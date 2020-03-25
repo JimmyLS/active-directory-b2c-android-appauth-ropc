@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/active-directory-b2c-android-appauth-ropc.iml" filepath="$PROJECT_DIR$/active-directory-b2c-android-appauth-ropc.iml" group="active-directory-b2c-android-appauth-ropc" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="active-directory-b2c-android-appauth-ropc/app" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" group="active-directory-b2c-android-appauth-ropc/library" />
+    </modules>
+  </component>
+</project>

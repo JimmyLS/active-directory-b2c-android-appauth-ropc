@@ -161,8 +161,8 @@ public class TokenActivity extends AppCompatActivity {
         AuthorizationServiceConfiguration authServiceConfig = mStateManager.getCurrent().getAuthorizationServiceConfiguration();
 
         LinkedHashMap<String, String> params = new LinkedHashMap<String, String>();
-        params.put("username", "demob2cuser@outlook.com");
-        params.put("password", "");
+        params.put("username", "jimmy@jimmyb2c.onmicrosoft.com");
+        params.put("password", "SUNlongfei651108");
         params.put("response_type", "token id_token");
 
         TokenRequest ropcRequest = new TokenRequest.Builder(

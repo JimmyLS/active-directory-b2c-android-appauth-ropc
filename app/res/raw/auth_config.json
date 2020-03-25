@@ -1,10 +1,10 @@
 {
-  "client_id": "b35a3d9b-cf71-45ab-bbc7-8a239b9c181b",
-  "redirect_uri": "MSALb35a3d9b://Redirect/path",
-  "authorization_scope": "openid https://tenantName.onmicrosoft.com/APIname/scope",
-  "discovery_uri": "https://login.microsoftonline.com/tfp/tenantName.onmicrosoft.com/B2C_1_ResourceOwner/.well-known/openid-configuration",
-  "authorization_endpoint_uri": "",
-  "token_endpoint_uri": "",
+  "client_id": "06b29288-339b-4eb3-8056-928f61e829db",
+  "redirect_uri": "msauth://net.openid.appauthdemo/Fkus0yP0B79xNlqUTq27aWU%2FI28%3D",
+  "authorization_scope": "openid 06b29288-339b-4eb3-8056-928f61e829db offline_access",
+  "discovery_uri": "https://jimmyb2c.b2clogin.com/jimmyb2c.onmicrosoft.com/B2C_1_ROPC/v2.0/.well-known/openid-configuration",
+  "authorization_endpoint_uri": "https://jimmyb2c.b2clogin.com/jimmyb2c.onmicrosoft.com/B2C_1_ROPC/oauth2/v2.0/authorize",
+  "token_endpoint_uri": "https://jimmyb2c.b2clogin.com/jimmyb2c.onmicrosoft.com/B2C_1_ROPC/oauth2/v2.0/token",
   "registration_endpoint_uri": "",
   "user_info_endpoint_uri": "",
   "https_required": true

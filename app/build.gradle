@@ -12,7 +12,7 @@ android {
         // Make sure this is consistent with the redirect URI used in res/raw/auth_config.json,
         // or specify additional redirect URIs in AndroidManifest.xml
         manifestPlaceholders = [
-                'appAuthRedirectScheme': 'MSALb35a3d9b'
+                'appAuthRedirectScheme': 'msauth'
         ]
     }
 
@@ -38,7 +38,7 @@ android {
             signingConfig signingConfigs.debugAndRelease
         }
     }
-    buildToolsVersion '26.0.2'
+    buildToolsVersion '29.0.3'
 }
 
 dependencies {

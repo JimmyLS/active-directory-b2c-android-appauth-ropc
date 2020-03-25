@@ -162,7 +162,7 @@ public class TokenActivity extends AppCompatActivity {
 
         LinkedHashMap<String, String> params = new LinkedHashMap<String, String>();
         params.put("username", "jimmy@jimmyb2c.onmicrosoft.com");
-        params.put("password", "SUNlongfei651108");
+        params.put("password", "xxxxxxx);
         params.put("response_type", "token id_token");
 
         TokenRequest ropcRequest = new TokenRequest.Builder(
